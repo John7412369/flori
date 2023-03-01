@@ -1,0 +1,37 @@
+
+body {
+    background-image: url("../images/flower.jpg");
+
+}
+
+h1 {
+    font-size: 80px;
+    color: rgb(202, 41, 41);
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+    color: rgb(8, 8, 84);
+    text-align: left;
+    padding-left: 90px;
+}
+
+h4 {
+    font-size: 40px;
+    color: rgb(8, 8, 84);
+    text-align: left;
+    padding-left: 90px;
+}
+
+p {
+
+    text-align: left;
+    font-size: 30px;
+    padding-left: 90px;
+    padding-right: 90px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(8, 8, 84);
+
+
+}
